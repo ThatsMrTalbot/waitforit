@@ -1,6 +1,6 @@
 {
   "name": "@thatsmrtalbot/waitforit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "bundle/index.js",
   "repository": "ThatsMrTalbot/waitforit",
   "author": "Adam Talbot",
@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "files": [
-    "bundle"
+    "bundle/*"
   ],
   "jest": {
     "moduleFileExtensions": [
