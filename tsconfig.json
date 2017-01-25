@@ -4,7 +4,8 @@
         "target": "es6",
         "noImplicitAny": false,
         "sourceMap": true,
-        "outDir": "bundle"
+        "outDir": "lib",
+        "declaration": true
     },
     "include": [
         "src/**/*.ts"

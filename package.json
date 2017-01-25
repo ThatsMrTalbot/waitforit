@@ -1,7 +1,8 @@
 {
   "name": "@thatsmrtalbot/waitforit",
-  "version": "1.0.6",
-  "main": "bundle/index.js",
+  "version": "1.0.7",
+  "main": "./lib/index.js",
+  "types": "./lib/main.d.ts",
   "repository": "ThatsMrTalbot/waitforit",
   "author": "Adam Talbot",
   "license": "MIT",
